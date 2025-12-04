@@ -1,9 +1,8 @@
 ## 给摄影师分享一些快捷指令
-例如：
-给照片添加边框、添加拍摄参数、设备厂商Logo
-添加水印
+#### 例如：
+#### 给照片添加边框、添加拍摄参数、设备厂商Logo、添加水印
 
-1.添加边框
+#### 1.添加边框
 
 功能：白底边框，底部左侧器材名称、中间Logo、右侧拍摄参数
 
@@ -13,17 +12,17 @@ https://www.icloud.com/shortcuts/900f990edbc14fa7b12dc1a39511ae70
 
 ----
 
-2.添加边框
+#### 2.添加边框
 
 功能：并且将图片裁切成小红书平台全屏图的尺寸，边框形式与1相同
 
 说明：支持多选
 
-https://www.icloud.com/shortcuts/b843ebb099f64e11abc5e64626181a7f
+导入链接：https://www.icloud.com/shortcuts/b843ebb099f64e11abc5e64626181a7f
 
 ----
 
-3.添加边框
+#### 3.添加边框
 
 功能：仅底部边框，图片参数与1相同
 
@@ -33,7 +32,7 @@ https://www.icloud.com/shortcuts/b843ebb099f64e11abc5e64626181a7f
 
 ----
 
-4.给图片添加水印
+#### 4.给图片添加水印
 
 功能：给照片添加水印
 
@@ -43,10 +42,43 @@ https://www.icloud.com/shortcuts/b843ebb099f64e11abc5e64626181a7f
 
 ----
 
-4.连拍照片转视频
+#### 4.连拍照片转视频
 
 功能：选则多张照片一件合成mov视频
 
 说明：图片大小存在限制，仅限1080p视频，
 
 导入链接：https://www.icloud.com/shortcuts/2bb0aecc2fb548d5ab2d4de99858f4ed
+
+----
+
+#### 5.小红书竖屏分割
+
+功能：将横屏照片分割为两张竖屏的照片，用于横图竖发
+
+说明：提前裁切照片突出主体，主体建议居中
+
+导入链接：https://www.icloud.com/shortcuts/5bfb0e88fe4e4710aefcfbb1de2fdf3a
+
+----
+
+#### 6.相册整理
+
+功能：将指定厂商相机拍摄的照片加入到指定的相册中
+
+说明：建议编辑指令，输入要加入的相册名称，以及要搜索的时间范围（默认为尼康）
+
+导入链接：https://www.icloud.com/shortcuts/afef4b5eec6a446eb560b402dd61f2b8
+
+
+
+
+
+
+
+
+
+
+
+
+
