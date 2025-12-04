@@ -1,6 +1,7 @@
 ## 给摄影师分享一些快捷指令
 #### 例如：
 #### 给照片添加边框、添加拍摄参数、设备厂商Logo、添加水印
+#### 说明：如果不能使用，则更新系统后尝试，iOS、MacOS、iPadOS均可用
 
 #### 1.添加边框
 
@@ -8,7 +9,7 @@
 
 说明：支持修改边框宽度，编辑指令修改，支持多选
 
-https://www.icloud.com/shortcuts/900f990edbc14fa7b12dc1a39511ae70
+导入链接：https://www.icloud.com/shortcuts/900f990edbc14fa7b12dc1a39511ae70
 
 ----
 
