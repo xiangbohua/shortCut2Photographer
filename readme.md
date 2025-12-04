@@ -11,7 +11,7 @@
 
 https://www.icloud.com/shortcuts/900f990edbc14fa7b12dc1a39511ae70
 
---
+----
 
 2.添加边框
 
@@ -21,6 +21,8 @@ https://www.icloud.com/shortcuts/900f990edbc14fa7b12dc1a39511ae70
 
 https://www.icloud.com/shortcuts/b843ebb099f64e11abc5e64626181a7f
 
+----
+
 3.添加边框
 
 功能：仅底部边框，图片参数与1相同
@@ -29,6 +31,8 @@ https://www.icloud.com/shortcuts/b843ebb099f64e11abc5e64626181a7f
 
 导入链接：https://www.icloud.com/shortcuts/0e7fcd523a9c4f6685e419596680a6f9
 
+----
+
 4.给图片添加水印
 
 功能：给照片添加水印
@@ -36,6 +40,8 @@ https://www.icloud.com/shortcuts/b843ebb099f64e11abc5e64626181a7f
 说明：需要编辑指令，输入水印图片名称，支持不透明度修改、水印位置修改（左上角为原点的100x100坐标系，50:50表示正中央，10:10左上角，10:90左下角，90:90右边下角），支持多选，可设置默认值
 
 导入链接：https://www.icloud.com/shortcuts/5a30a5dfa9644a90bcd1cc3723589b75
+
+----
 
 4.连拍照片转视频
 
