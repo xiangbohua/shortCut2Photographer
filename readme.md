@@ -11,6 +11,8 @@
 
 https://www.icloud.com/shortcuts/900f990edbc14fa7b12dc1a39511ae70
 
+--
+
 2.添加边框
 
 功能：并且将图片裁切成小红书平台全屏图的尺寸，边框形式与1相同
