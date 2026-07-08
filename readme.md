@@ -85,7 +85,15 @@
 导入链接： https://www.icloud.com/shortcuts/0a3d038fa21c4dd4baae038d9ed2359d
 
 
+----
 
+#### 8.一键切多图
+
+功能：快速将一张横屏图切成多站竖屏图，用来发布一些社交媒体时实现拼接全景图的效果
+
+说明：使用方法，选择宽高比、输入需要切几张、选择照片，完成，照片会存到对应的相册中。
+
+导入链接：https://www.icloud.com/shortcuts/2a97cdec761d43358eb0d14d6c30efd9
 
 
 
